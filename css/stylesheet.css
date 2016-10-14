@@ -2,12 +2,14 @@ html, body{
 	width: 100%;
 	height: 100%;
 	margin: 0px;
+	background-color: #fff787;	
+
 }
 
 canvas{
-	background-color: #000000;	
+	background-color: #fff787;	
 }
 .canvas-window{
-	height: 100%;
-	width: 100%;
+	height: 250;
+	width: 250;
 }
